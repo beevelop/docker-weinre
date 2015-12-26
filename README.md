@@ -20,8 +20,10 @@ docker build -t beevelop/weinre github.com/beevelop/docker-weinre
 
 ### Run image
 ```
-docker run -it beevelop/weinre bash
+docker run -it -p 8080:8080 beevelop/weinre bash
 ```
+
+Access weinre by hitting http://host-ip:8080 and follow the instructions to enable debugging your applications.
 
 ### Use as base image
 ```Dockerfile
