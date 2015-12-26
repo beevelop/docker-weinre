@@ -1,0 +1,9 @@
+sudo: required
+
+services:
+  - docker
+
+script:
+  - docker build -t weinre .
+  - docker run -d --name weinre weinre
+  - docker exec weinre /bin/bash -c "apt-get update && apt-get install -y curl && curl -f localhost:8080"
