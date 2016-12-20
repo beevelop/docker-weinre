@@ -1,6 +1,9 @@
-[![Travis](https://img.shields.io/travis/beevelop/docker-weinre.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-weinre)
-[![Docker Pulls](https://img.shields.io/docker/pulls/beevelop/weinre.svg?style=flat-square)](https://links.beevelop.com/d-weinre)
-[![ImageLayer](https://badge.imagelayers.io/beevelop/weinre:latest.svg)](https://imagelayers.io/?images=beevelop/weinre:latest)
+[![Travis](https://shields.beevelop.com/travis/beevelop/docker-weinre.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-weinre)
+[![Pulls](https://shields.beevelop.com/docker/pulls/beevelop/weinre.svg?style=flat-square)](https://links.beevelop.com/d-weinre)
+[![Layers](https://shields.beevelop.com/docker/image/layers/beevelop/weinre/latest.svg?style=flat-square)](https://links.beevelop.com/d-weinre)
+[![Size](https://shields.beevelop.com/docker/image/size/beevelop/weinre/latest.svg?style=flat-square)](https://links.beevelop.com/d-weinre)
+[![Release](https://shields.beevelop.com/github/release/beevelop/docker-weinre.svg?style=flat-square)](https://github.com/beevelop/docker-weinre/releases)
+![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
 # Apache weinre
